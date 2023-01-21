@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/bindaldhara/news-aggregator-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/bindaldhara/news-aggreagtor-server.git
